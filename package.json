@@ -1,0 +1,31 @@
+{
+  "name": "hive-importexport-svg-png",
+  "version": "0.6.0",
+  "description": "export your hive.js svg documents to png",
+  "main": "index.js",
+  "dependencies": {
+    "svg2png": "3.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hivejs/hive-importexport-svg-png.git"
+  },
+  "keywords": [
+    "hive",
+    "collaborative",
+    "editing",
+    "export",
+    "png",
+    "svg",
+    "hive.js"
+  ],
+  "author": "Marcel Klehr <mklehr@gmx.net>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hivejs/hive-importexport-svg-png/issues"
+  },
+  "homepage": "https://github.com/hivejs/hhive-importexport-svg-png#readme"
+}
